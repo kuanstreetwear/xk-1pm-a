@@ -1,0 +1,6 @@
+if SHIELD_CORNE_X1
+
+config ZMK_KEYBOARD_NAME
+    default "corne_x1"
+
+endif
